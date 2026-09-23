@@ -1,1 +1,1 @@
-# Physics-Constrained-Unsupervised-Anomaly-Detection-in-Solar-Radiation-
+# Physics-Constrained-Unsupervised-Anomaly-Detection-in-Solar-Radiation
